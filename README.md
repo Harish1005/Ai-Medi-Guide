@@ -39,7 +39,7 @@
 ## ⚙️ Installation & Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/ai-mediguide.git
+   git clone https://github.com/Harish1005/ai-mediguide.git
    cd ai-mediguide
 
 2. Install dependencies:
